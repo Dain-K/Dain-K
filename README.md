@@ -1,8 +1,8 @@
 <a href="https://github.com/Dain-K" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dksudi76@gmail.com)](mailto:dksudi76@gmail.com)
 <a href="https://blog.naver.com/inni760" target="_blank"><img src="https://img.shields.io/badge/naver.blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>   
-[![Dain-K's github status](https://github-readme-status.vercel.app/api/top-langs/?username=Dain-K&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Dain-K)   
-![Dain-K's github status](https://github-readme-status.vercel.app/api?username=Dain-K&show_icons=true)
+[![Dain-K's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=Dain-K&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Dain-K)   
+![Dain-K's github status](https://github-readme-stats.vercel.app/api?username=Dain-K&show_icons=true)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Dain-K)
