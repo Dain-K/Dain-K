@@ -1,9 +1,12 @@
-<h3 align="center">Nice way to meet me</h3>  
-<p align="center">
+## Hi There 👋  
+
+<p>
   <a href="https://github.com/Dain-K" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="mailto:dksudi76@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dksudi76@gmail.com"/></a>
   <a href="https://blog.naver.com/inni760" target="_blank"><img src="https://img.shields.io/badge/naver.blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
+
+### Hello, I'm Dain Kim!
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -25,8 +28,16 @@
 </p>
 
 
-[![Dain-K's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=Dain-K&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Dain-K)   
-![Dain-K's github status](https://github-readme-stats.vercel.app/api?username=Dain-K&show_icons=true)
-
+## Github Stats  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Dain-K&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dain-K&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Dain-K)
