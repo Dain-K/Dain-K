@@ -1,8 +1,9 @@
 ## Hi There 👋  
 Hello, My name is Dain Kim! Welcome to my profile!!
 
-### Experience
-- :lion: **9th** - LIKELION Front-end Developer
+### :herb: Experience :herb:
+- :lion: **LIKELION 9th** Front-end Developer
+- :office: **MCL(Mobile Communication Lab)** member
 <br><br>
 
 ### 🔨 Tech Stack & Tools 🔨
