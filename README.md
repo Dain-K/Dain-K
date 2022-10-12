@@ -17,11 +17,9 @@ Hello, My name is Dain Kim! Welcome to my profile!!
 <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a> 
 <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=CSS3&logoColor=#1572B6"/></a> 
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=#FFD700"/></a>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=#87CEFA"/></a>
 <br>
 **Web Back-End :**
 <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=#267DFF"/></a> 
-<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=#66CDAA"/></a>
 <br>
 **Tool & etc. :**
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=#FFA926"/></a>
@@ -36,7 +34,7 @@ Hello, My name is Dain Kim! Welcome to my profile!!
 </p>
 
 
-## Github Stats  
+## Github Status  
 <table>
   <tr>
     <td valign="top" width="55%">
@@ -47,4 +45,6 @@ Hello, My name is Dain Kim! Welcome to my profile!!
     </td>
   </tr>
 </table>  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Dain-K)
 
