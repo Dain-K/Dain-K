@@ -1,5 +1,5 @@
 ## Hi There 👋  
-Hello, My name is Dain Kim! Welcome to my profile!
+Hello, My name is Dain Kim! Welcome to my profile!!
 
 ### :herb: Experience :herb:
 - :lion: **LIKELION 9th** Front-end Developer
