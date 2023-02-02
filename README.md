@@ -2,7 +2,7 @@
 Hello, My name is Dain Kim! Welcome to my profile!!
 
 ### :herb: Experience :herb:
-- :lion: **LIKELION 9th** Front-end Developer
+- :lion: **LIKELION 9th** Web Developer
 - :office: **MCL(Mobile Communication Lab)** member
 <br><br>
 
@@ -47,4 +47,3 @@ Hello, My name is Dain Kim! Welcome to my profile!!
 </table>  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Dain-K)
-
